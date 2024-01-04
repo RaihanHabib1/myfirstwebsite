@@ -6,14 +6,19 @@ h1{
     color:turquoise;
 }
 div{
-    background-color:aqua;
     font-size: 20px;
     width: 15%;
 }
 img{
-    width:70%;
+
     height: 300px;
 }
 img [alt]{
     width:10%;
+}
+#ol{
+    color:rgb(42, 201, 27);
+}
+.ul color{
+    color: fuchsia;
 }
