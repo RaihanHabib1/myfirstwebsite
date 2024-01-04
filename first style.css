@@ -2,3 +2,18 @@ p{
     font-size:20px;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
+h1{
+    color:turquoise;
+}
+div{
+    background-color:aqua;
+    font-size: 20px;
+    width: 15%;
+}
+img{
+    width:70%;
+    height: 300px;
+}
+img [alt]{
+    width:10%;
+}
