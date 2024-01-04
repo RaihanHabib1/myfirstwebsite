@@ -4,8 +4,10 @@
 p{
     font-size:20px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    border: 5px solid tomato;
+    border: 10px solid tomato;
     border-radius: 10px;
+    height: 90px;
+    padding: 10px 40px;
     
 }
 h1{
