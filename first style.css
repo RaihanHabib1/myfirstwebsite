@@ -1,6 +1,12 @@
+*{
+    margin: 5px 5px 5px 10px;
+}
 p{
     font-size:20px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid tomato;
+    border-radius: 10px;
+    
 }
 h1{
     color:turquoise;
@@ -13,12 +19,16 @@ img{
 
     height: 300px;
 }
-img [alt]{
-    width:10%;
-}
 #ol{
     color:rgb(42, 201, 27);
 }
-.ul color{
+.ul, .color{
     color: fuchsia;
 }
+input[type="password"]{
+    color: red;
+}
+input[type="email"]{
+    color: greenyellow;
+}
+    
